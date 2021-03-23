@@ -14,4 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-| cartis-integration-services-CI | (https://dev.azure.com/asteria-skydeck/SkyDeck-CICD/_apis/build/status/cartis-file-cred-service-CI?branchName=develop) |[![Build Status](https://dev.azure.com/asteria-skydeck/SkyDeck-CICD/_apis/build/status/cartis-integration-services-CI?branchName=master)](https://dev.azure.com/asteria-skydeck/SkyDeck-CICD/_build/latest?definitionId=5&branchName=master) |
+|https://dev.azure.com/asteria-skydeck/SkyDeck-CICD/_apis/build/status/cartis-integration-services-CI?branchName=develop |
